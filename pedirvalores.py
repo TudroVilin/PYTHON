@@ -1,0 +1,10 @@
+print("Pedir valores usuario")
+print("Introduzca su nombre:")
+n=input()
+print("Bienvenido a Python,",n)
+print("Introduzca numero 1:")
+n1=int(input())
+print("Introduzca numero 2:")
+n2=int(input())
+n3=n1+n2
+print("La suma de",n1,"y",n2,"es",n3)
