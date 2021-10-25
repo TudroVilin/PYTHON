@@ -27,3 +27,5 @@ while(a==0):
         mbisiestos()
     else:
         print("Error.")
+print("Pulse ENTER para finalizar.")
+input()

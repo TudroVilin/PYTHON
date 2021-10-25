@@ -10,3 +10,5 @@ while n!=1:
         n=(n*3)+1
         print(n)
 print("Fin programa")
+print("Pulse ENTER para finalizar")
+input()
